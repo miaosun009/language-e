@@ -6,14 +6,14 @@
     "atom": "*",
     "node": "*"
   },
-  "homepage": "http://atom.github.io/language-sql",
+  "homepage": "https://github.com/miaosun009/language-e.git",
   "repository": {
     "type": "git",
-    "url": "https://github.com/atom/language-sql.git"
+    "url": "https://github.com/miaosun009/language-e.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/atom/language-sql/issues"
+    "url": "https://github.com/miaosun009/language-e/issues"
   },
   "devDependencies": {
     "coffeelint": "^1.10.1"
