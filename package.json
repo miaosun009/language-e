@@ -1,5 +1,5 @@
 {
-  "name": "language-sql",
+  "name": "language-e",
   "version": "0.20.0",
   "description": "SQL language support in Atom",
   "engines": {
